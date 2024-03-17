@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://renthanam.github.io/sitemap.txt
